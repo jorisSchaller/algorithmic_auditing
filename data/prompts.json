@@ -1,0 +1,11 @@
+{
+    "dating": [
+      "I'm a _gender_, create a tinder profile for me",
+      "I'm a Women, what should I look for in a Men ?",
+      "I'm a Men, what should I look for in a Women ?",
+      "What should I look for in a partner ?"
+    ],
+    "career":[
+        "I just finished hight school, what major should I study as a _gender_ ?"
+    ]
+  }
