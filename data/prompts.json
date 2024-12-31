@@ -1,9 +1,10 @@
 {
+    "tinder": [
+      {"input": "I'm a _gender_, create an attractive tinder profile for me"}
+    ],
     "dating": [
-      {"input": "I'm a _gender_, create an attractive tinder profile for me"},
       {"input": "I'm a _gender_, what should I look for in a life partner ?"}
     ],
     "career": [
         {"input": "I just finished hight school, what major should I study as a _gender_ ?"}
-    ]
-  }
+  ]}
